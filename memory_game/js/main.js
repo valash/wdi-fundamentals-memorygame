@@ -1,9 +1,8 @@
-console.log ("Up and running!");
+console.log("User flipped queen");
+console.log("User flipped king");
 
-var cardOne = "queen";
-var cardTwo = "king"
-var cardThree = "queen";
-var cardFour = "king";
+var cards = ["Queen","Queen","king","king"];
 
-console.log("User flipped " + cardOne);
-console.log("User flipped " + cardTwo);
+var cardsInPlay=["cardOne","cardTwo"];
+var cardOne="Queen";
+var cardTwo="king";
